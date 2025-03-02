@@ -1,6 +1,6 @@
 # babelrome
 
-a branch of babel for chrome
+A branch of babel for chrome
 
 ## Information ℹ️
 
@@ -32,9 +32,10 @@ It is a very limited and very simplified system, when you click on the `Chrome e
 with this the data will be registered in **babelite**
 
 To access them you will need to go to Babelite and ask the question of what you want to get from that data, example:
-`Give me all informations from this html`
-`Give me a resume of the contents of this html`
-`Tell me what u see from this html`
+
+* `Give me all informations from this html`
+* `Give me a resume of the contents of this html`
+* `Tell me what u see from this html`
 
 > [!TIP]
 > Telling babel to visualize it as an HTML will make it respond directly and with fewer errors
