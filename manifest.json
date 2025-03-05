@@ -8,7 +8,8 @@
     		"sandbox": "sandbox allow-scripts allow-forms"
 	},
 	"permissions": [
-		"activeTab"
+		"activeTab",
+		"scripting"
 	],
 	"host_permissions": [
 		"<all_urls>"
